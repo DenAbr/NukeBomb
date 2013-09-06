@@ -1,0 +1,8 @@
+name: NukeBomb
+main: NukeBomb.NukeBomb
+description: Destroy it!!
+version: 1.0
+commands:
+   nuke:
+       description: Created a nuke.
+       usage: /<command>
